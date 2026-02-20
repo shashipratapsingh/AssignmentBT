@@ -42,8 +42,8 @@ Open:
 - Frontend: http://localhost:3000
 
 ## Sample credentials (seeded)
-- user1: `alice@example.com` / `Password@123`
-- user2: `bob@example.com` / `Password@123`
+- user1: `Shashi@example.com` / `Password@123`
+- user2: `Shashi@example.com` / `Password@123`
 
 ## API endpoints (via Gateway :8080)
 
